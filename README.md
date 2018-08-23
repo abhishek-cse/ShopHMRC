@@ -1,3 +1,4 @@
+# ShopHMRC
 
 
 ### Pre-interview Exercise for Developer Candidates
@@ -44,4 +45,3 @@ candidates take a list of strings as input
   3. or the price of 2 on Oranges
 4. Update your checkout functions accordingly
 
-# ShopHMRC
